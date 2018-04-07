@@ -1,0 +1,8 @@
+isntall > installs a package and == specifies the version
+list > shows a list of the installed packages
+if a package is already installed it will say requirement satisfied
+freeze will only show the things installed by pip
+'pip freeze > requirements.txt' created a txt file witht he freeze list of items
+uninstall removes the installed library
+'pip show Django' does nothing, most likely cuz it was just removed
+pip search xxx will search for packages that contain xxx
